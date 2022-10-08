@@ -1,0 +1,17 @@
+body {
+    background-color: lavender;
+    text-align: center;
+  list-style-position: inside;
+ font-family: sans-serif, Arial, Helvetica;
+ padding: 25px 50px 75px 100px;
+}
+
+img {
+    border-radius: 10%;
+}
+
+header {
+    font-size: 16 px; 
+    font-weight: bold;
+    font-family: sans-serif, Arial, Helvetica;
+}
